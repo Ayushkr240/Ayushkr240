@@ -12,19 +12,7 @@
 Building production-ready AI applications with Machine Learning, Large Language Models, and modern software engineering.
 </p>
 
-<p align="center">
 
-<a href="https://github.com/Ayushkr240">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
