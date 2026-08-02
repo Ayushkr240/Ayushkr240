@@ -126,14 +126,6 @@ My interests include production AI, intelligent automation, AI agents, NLP, and 
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushkr240&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr240&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Ayushkr240&theme=transparent&hide_border=true"/>
 
 </p>
