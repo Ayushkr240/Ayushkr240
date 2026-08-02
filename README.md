@@ -60,7 +60,7 @@ I enjoy transforming AI research into practical software by building scalable ma
 ### Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=docker" />
 </p>
 
 ---
