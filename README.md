@@ -65,17 +65,6 @@ I enjoy transforming AI research into practical software by building scalable ma
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushkr240&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkr240&layout=compact&hide_border=true"/>
-
-</p>
-
----
 
 ## GitHub Activity
 
